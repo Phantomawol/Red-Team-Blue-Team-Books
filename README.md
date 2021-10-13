@@ -1,4 +1,4 @@
-# Red-Team-Blue-Team-Books
+# Red-Team-and-Blue-Team-Books
 
 Below are some books I recommend reading. I have read them myself and think others who are starting out should check them out as well:
 
